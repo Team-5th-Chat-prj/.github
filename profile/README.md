@@ -1,4 +1,7 @@
-# 겟츄 (Getchu) - 직접 구현한 동시성·캐싱·실시간 채팅 기반 중고거래 백엔드
+<img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/a80a4171-b85b-42d2-8003-4bcefa223bf8" />
+
+
+# 겟츄 (Getchu) - 동시성·캐싱·실시간 채팅 기반 중고거래 백엔드
 
 > **동시성 제어, 분산 캐싱, 실시간 채팅을 직접 구현하여 정합성과 성능을 확보한 중고거래 백엔드 시스템 '겟츄'입니다.**
 
